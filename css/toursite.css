@@ -1,0 +1,22 @@
+body{
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("/galaxy.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color:white;
+    
+}
+
+.btn{
+    padding: 6px 12px;
+    background: white;
+    border: none;
+}
+
+#underline{
+    
+    border-bottom: 4px solid white;
+}
+    
